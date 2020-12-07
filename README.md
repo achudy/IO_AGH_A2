@@ -113,4 +113,4 @@ Required python modules:
 
 
 ### Result screen
-![Result PNG](final.PNG)
+![Result PNG](final.png)
